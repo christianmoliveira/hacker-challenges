@@ -1,4 +1,4 @@
-# Codewars Katas
+# HackerRank Challenges
 
 This a repository containing some HackerRank challenges, that I've been solving to improve my coding skills.
 
